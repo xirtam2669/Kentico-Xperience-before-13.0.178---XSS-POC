@@ -1,5 +1,6 @@
 # Exploit Title: Kentico Xperience before 13.0.178 - XSS
 # Date: 2025-05-09
+# Version: Kentico Xperience before 13.0.178
 # Exploit Author: Alex Messham
 # Contact: ramessham@gmail.com
 # Source: https://github.com/xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC/
